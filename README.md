@@ -1,4 +1,4 @@
-# Word and Character Counter
+# FARAZ ALI
 <hr>
 <p align="right">Created and designed by Faraz ali
 <hr>
